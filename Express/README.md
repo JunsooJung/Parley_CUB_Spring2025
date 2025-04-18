@@ -35,6 +35,8 @@ This repository contains notebooks and models to generate synthetic SBA loan dat
 
 ---
 
+[Parlay Docs Drive Link |https://drive.google.com/drive/folders/16KTGAEswErWP6BlLL1UjNlbbRUZogexa]
+
 ## 🧠 Key Insights
 
 - A precision-recall tradeoff analysis reveals:
