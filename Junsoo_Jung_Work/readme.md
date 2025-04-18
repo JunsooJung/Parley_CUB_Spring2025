@@ -93,7 +93,7 @@ This will add model prediction result to the each rows. For currently, CatBoost,
 ## 📚 Missing Files
 Because generated datas are way to large, this needs to be download manualy. 
 
-[Google Drive Link]([https://drive.google.com/drive/folders/1vMSg__xCttENbtfuT4msyWSCoJucCyKO?usp=sharing])
+[Google Drive Link](https://drive.google.com/drive/folders/1vMSg__xCttENbtfuT4msyWSCoJucCyKO?usp=sharing)
 
 There are 2 csv files, 
 - Synthetic_SBA_Loans_raw.csv
