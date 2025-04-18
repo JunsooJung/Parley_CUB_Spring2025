@@ -47,7 +47,7 @@ For the Spring 2025 semester,
 - [ ] If Models are inaccurate, WHY?
 - [ ] If Models works well, What should we do?
 
-## Data
+## 📝 Data
 
 ### Data_Generataion.ipynb
 This is the main synthetic data generation file. 
@@ -76,7 +76,7 @@ After processing via Predict.ipynb, now test file has prediction from each model
 
 
 
-## Code
+## 📝 Code
 
 
 ### NN_and_Meta / Model_Generation.ipynb
@@ -104,7 +104,7 @@ Just need to add or change the desired column you want.
 This will add model prediction result to the each rows. For currently, CatBoost, GradientBoost, LightGBM, Logistic Regression, Random Forest, XGBoost, Neural Nets and Meta Learning was used for the models.
 
 
-## Missing Files
+## 📚 Missing Files
 Because generated datas are way to large, this needs to be download manualy. 
 
 [Google Drive Link](https://drive.google.com/drive/folders/1vMSg__xCttENbtfuT4msyWSCoJucCyKO?usp=sharing)
