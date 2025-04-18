@@ -6,6 +6,8 @@
 - [Team](#-team)
 - [Progress](#-progress)
 - [MissingFiles](#-missingfiles)
+- [Output](#-output)
+
 
   
 ## About
@@ -65,4 +67,9 @@ And one Pickle model.
   - Location is, "Junsoo_Jung_Work/saved_model/RandomForest_model.pkl"
 
 
+
+## Output
+
+For the final output, see "Junsoo_Jung_Work/Predicted_SBA_Loans.csv"
+Columns named (Model)_Prediction shows results of each model's prediction.
 
