@@ -48,24 +48,6 @@ This repository contains notebooks and models to generate synthetic SBA loan dat
 
 ---
 
-## 🚀 Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/sba-loan-classifier.git
-   cd sba-loan-classifier
-   ```
-
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the notebooks in Jupyter or Google Colab:
-   - `Data_Generation.ipynb` to generate data
-   - `Express.ipynb` to train and evaluate models
-
----
 
 ## 🧰 Requirements
 
