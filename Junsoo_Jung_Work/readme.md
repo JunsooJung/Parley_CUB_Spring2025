@@ -14,7 +14,7 @@
 ## About
 
 This is a collaborative capstone project between Parlay Finance and the Data Science major at the University of Colorado Boulder. All data belongs to Parlay and may not be used without authorization.
-For the Spring 2025 semester, 
+For the Spring 2025 semester, Team 1 and Parlay focused on what could improve the accuracy of the prediction of the loan possibility.
 
 
 
