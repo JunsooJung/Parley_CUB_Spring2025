@@ -64,6 +64,7 @@ After processing via Predict.ipynb, now test file has prediction from each model
 
 There are one of .pkl files for each model type. They are pre processed version for easy access to the model and make sure the model version is same. This is good for when testing the model and roll back to previous version if the test was not improved after change some coding.
 
+Logistic Regression .pkl file is located on Google Drive.
 
 
 
